@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![New Age Preview](https://simulacro-mtc.net.pe/files/simulacro_mtc_preview.jpg)]
+(https://simulacro-mtc.net.pe/files/simulacro_mtc_preview.jpg)
 
 **[View Live Preview](https://simulacro-mtc.github.io/)**
 
