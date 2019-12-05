@@ -28,4 +28,4 @@ After installation, run `npm install` and then run `npm start` which will open u
 
 ## Copyright y Licencia
 
-Copyright Simulacro MTC &copy;2019. Lima, Perú. Todos los derechos reservados.
+Copyright &copy; 2019 Simulacro MTC. Lima, Perú. Todos los derechos reservados.
