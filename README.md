@@ -1,6 +1,6 @@
 # [Simulacro MTC Application](https://simulacro-mtc.net.pe/)
 
-[Simulacro MTC](https://simulacro-mtc.net.pe/), es una aplicación web desarrollada para la preparación en el Examen de Reglas de Tránsito (Conocimientos) requerido para obtener el brevete y licencias de conducir de categorías superiores en el Perú. [Ver más](https://simulacro-mtc.github.io/).
+[Simulacro MTC](https://simulacro-mtc.net.pe/), es una aplicación web desarrollada para la preparación en el Examen de Reglas de Tránsito (Conocimientos), requerido para obtener el brevete y licencias de conducir de categoría superior en el Perú. [Ver más](https://simulacro-mtc.github.io/).
 
 ## Previsualización
 
@@ -10,7 +10,7 @@
 
 ## Acceso y Plataformas Soportadas
 
-Nuestra aplicación está basada en HTML/CSS/Javascript y es accesible a través de cualquier plataforma(PC, Android, IOS) con un navegador web moderno (Chrome, Firefox, Edge).
+Nuestra aplicación está basada en HTML/CSS/Javascript y es accesible a través de cualquier plataforma (PC, Android, IOS), con un navegador web moderno (Chrome, Firefox, Edge).
 
 ## Características
 
