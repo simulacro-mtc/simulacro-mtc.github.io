@@ -8,23 +8,33 @@
 
 **[View Live Preview](https://simulacro-mtc.github.io/)**
 
-## Uso y Plataformas Soportadas
+## Acceso y Plataformas Soportadas
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/new-age/)
-* Install via npm: `npm i startbootstrap-new-age`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-new-age.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-new-age)
+Nuestra aplicación está basada en HTML/CSS/Javascript y es accesible a través de cualquier plataforma(PC, Android, IOS) con un navegador web moderno (Chrome, Firefox, Edge).
 
 ## Características
 
 ### Preparación para el Brevete o Licencia Categoría A-1
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+Balotario de preguntas
+* Las 200 preguntas del temario de Reglas de Tránsito con sus respectivas respuestas.
+
+Simulador de Examen de Reglas de Tránsito
+* 40 preguntas escogidas de manera aleatoria.
+* Límite de tiempo de 40 minutos.
+* Puede practicarse las veces que se desea.
 
 ### Preparación para Categorías Superiores
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+Balotarios y Simuladores de Examen para las Categorías de Licencia Superiores:
+
+* Categoría A-IIA: (https://simulacro-mtc.net.pe/balotario-simulacro-categoria-a-iia/)
+* Categoría A-IIB: (https://simulacro-mtc.net.pe/balotario-simulacro-categoria-a-iib/)
+* Categoría A-IIIA: (https://simulacro-mtc.net.pe/balotario-simulacro-categoria-a-iiia/)
+* Categoría A-IIIB: (https://simulacro-mtc.net.pe/balotario-simulacro-categoria-a-iiib/)
+* Categoría A-IIIC: (https://simulacro-mtc.net.pe/balotario-simulacro-categoria-a-iiic/)
+* Categoría B-IIB: (https://simulacro-mtc.net.pe/balotario-simulacro-categoria-b-iib/)
+* Categoría B-IIC: (https://simulacro-mtc.net.pe/balotario-simulacro-categoria-b-iic/)
 
 ## Copyright y Licencia
 
