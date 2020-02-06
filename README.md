@@ -38,4 +38,4 @@ Balotarios y Simuladores de Examen para las Categorías de Licencia Superiores:
 
 ## Copyright y Licencia
 
-Copyright &copy; 2019 Simulacro MTC. Lima, Perú. Todos los derechos reservados.
+Copyright &copy; 2020 Simulacro MTC. Lima, Perú. Todos los derechos reservados.
