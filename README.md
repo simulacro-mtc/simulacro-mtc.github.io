@@ -50,7 +50,7 @@ Balotarios y Simuladores de Examen para las Categorías de Licencia Superiores:
 
 ### Otras Características
 
-* Soporte del Modo Oscuro o Dark Mode
+* Soporte del **_Modo Oscuro_** o **_Dark Mode_**
 * Puede usarse tanto en orientación vertical (portrait) como horizontal (landscape) para su comodidad.
 
 ## Copyright y Licencia
