@@ -14,7 +14,8 @@
 ## Acceso y Plataformas Soportadas
 
 ### Versión Web
-[👉 Disponible en:](https://simulacro-mtc.net.pe/application/)
+👉 Disponible en:[https://simulacro-mtc.net.pe/application/](https://simulacro-mtc.net.pe/application/)
+
 Nuestra aplicación está basada en HTML/CSS/Javascript y es accesible a través de cualquier plataforma PC (Windows, Linux o Mac), Smartphone o Tablet (IOS o Android), usando un navegador web moderno Google Chrome, Firefox, Safari o Edge.
 
 
