@@ -1,23 +1,22 @@
 # Aplicación Simulacro MTC
 
-[Simulacro MTC](https://simulacro-mtc.net.pe/application/), es una aplicación web desarrollada para la preparación en el Examen de Reglas de Tránsito (Conocimientos), requerido para obtener el brevete y licencias de conducir de categoría superior en el Perú.
+[Simulacro MTC](https://simulacro-mtc.net.pe/), es una aplicación web desarrollada para la preparación en el Examen de Reglas de Tránsito (Conocimientos), requerido para obtener el brevete y licencias de conducir de categoría superior en el Perú.
 [Ver más](https://simulacro-mtc.github.io/).
 
 ## Previsualización
 
 [![Simulacro MTC Preview](https://simulacro-mtc.net.pe/files/simulacro_mtc_preview.jpg)](https://simulacro-mtc.github.io/)
 
-**[View Live Preview](https://www.youtube.com/watch?v=yq9-Yba0MS0)**
+## Vídeo de Presentación
 
-[![Simulacro MTC Demo Video](http://img.youtube.com/vi/yq9-Yba0MS0/0.jpg)](https://www.youtube.com/watch?v=yq9-Yba0MS0)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=yq9-Yba0MS0" target="_blank">
-<img src="http://img.youtube.com/vi/yq9-Yba0MS0/0.jpg" alt="Simulacro MTC Demo Video" width="240" height="180" border="10" />
-</a>
+[![Simulacro MTC Demo Video](https://img.youtube.com/vi/yq9-Yba0MS0/0.jpg)](https://www.youtube.com/watch?v=yq9-Yba0MS0)
 
 ## Acceso y Plataformas Soportadas
 
-Nuestra aplicación está basada en HTML/CSS/Javascript y es accesible a través de cualquier plataforma (PC, Android, IOS), con un navegador web moderno (Chrome, Firefox, Edge).
+### Versión Web
+[👉 Disponible en:](https://simulacro-mtc.net.pe/application/)
+Nuestra aplicación está basada en HTML/CSS/Javascript y es accesible a través de cualquier plataforma PC (Windows, Linux o Mac), Smartphone o Tablet (IOS o Android), usando un navegador web moderno Google Chrome, Firefox, Safari o Edge.
+
 
 ## Características
 
