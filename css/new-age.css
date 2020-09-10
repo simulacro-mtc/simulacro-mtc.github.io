@@ -353,6 +353,14 @@ section.contact ul.list-social li.social-twitter a:hover {
   background-color: #0d95e8;
 }
 
+section.contact ul.list-social li.social-pinterest a {
+  background-color: #d73925;
+}
+
+section.contact ul.list-social li.social-pinterest a:hover {
+  background-color: #E60023;
+}
+
 section.contact ul.list-social li.social-facebook a {
   background-color: #3b5998;
 }
