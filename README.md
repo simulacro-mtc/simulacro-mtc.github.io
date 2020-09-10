@@ -7,7 +7,9 @@
 
 [![Simulacro MTC Preview](https://simulacro-mtc.net.pe/files/simulacro_mtc_preview.jpg)](https://simulacro-mtc.github.io/)
 
-**[View Live Preview](https://simulacromtc.s3.amazonaws.com/index.html)**
+**[View Live Preview](https://www.youtube.com/watch?v=yq9-Yba0MS0)**
+
+[![Simulacro MTC Demo Video](http://img.youtube.com/vi/yq9-Yba0MS0/0.jpg)](https://www.youtube.com/watch?v=yq9-Yba0MS0)
 
 ## Acceso y Plataformas Soportadas
 
