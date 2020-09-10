@@ -11,6 +11,10 @@
 
 [![Simulacro MTC Demo Video](http://img.youtube.com/vi/yq9-Yba0MS0/0.jpg)](https://www.youtube.com/watch?v=yq9-Yba0MS0)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yq9-Yba0MS0" target="_blank">
+<img src="http://img.youtube.com/vi/yq9-Yba0MS0/0.jpg" alt="Simulacro MTC Demo Video" width="240" height="180" border="10" />
+</a>
+
 ## Acceso y Plataformas Soportadas
 
 Nuestra aplicación está basada en HTML/CSS/Javascript y es accesible a través de cualquier plataforma (PC, Android, IOS), con un navegador web moderno (Chrome, Firefox, Edge).
